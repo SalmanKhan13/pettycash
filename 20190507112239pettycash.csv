@@ -1,0 +1,4 @@
+﻿onlineservices.date,onlineservices.description,onlineservices.quantity,onlineservices.cost,logistics.date,logistics.description,logistics.quantity,logistics.cost,travelling.date,travelling.description,travelling.quantity,travelling.cost
+"[""2019-04-02T00:00:00.000Z"",""2019-03-12T00:00:00.000Z""]","[""GoogleApps"",""AWS-1234""]","[1,1]","[5612,10023]","[""2019-04-01T00:00:00.000Z""]","[""Social Ceremony""]",[1],[5000],[],[],[],[]
+"[""2019-02-05T00:00:00.000Z""]","[""BootCamp""]",[1],[10012],"[""2019-03-03T00:00:00.000Z""]","[""BooksTemplate""]",[1],[56],"[""2019-03-11T00:00:00.000Z"",""2019-04-01T00:00:00.000Z""]","[""LaunchParty"",""Beautiful Bikes""]","[1,1]","[1200,200]"
+"[""2019-04-02T00:00:00.000Z"",""2019-04-02T00:00:00.000Z""]","[""Beautiful Bikes"",""AWS-1234""]","[1,1]","[12,5657]",[],[],[],[],[],[],[],[]
