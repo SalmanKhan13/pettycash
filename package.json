@@ -24,7 +24,7 @@
     "json-2-csv": "^3.7.5",
     "json2csv": "^4.5.4",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "mongo-date-query": "^1.2.2",
     "mongoose": "^5.9.22",
     "node": "^11.15.0",
